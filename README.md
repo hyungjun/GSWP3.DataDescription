@@ -8,7 +8,7 @@ Description of GSWP3 Forcing Data
 
 ## Versions
 
-### 1.0 _@2018-07-06_
+### 1.06 _@2018-07-06_
 + change variable naming convention: amip_name [wss] -> [sfcWind]
 + release for LS3MIP land_hist experiment
 
