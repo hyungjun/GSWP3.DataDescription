@@ -1,7 +1,21 @@
 # GSWP3.DataDescription
 Description of GSWP3 Forcing Data
 
+## Dimensions
++ Time: 3-hourly (hours since 1871-01-01 00:00:00)
++ Latitude: 0.5 degree 
+
+
 ## Versions
+
+### 1.0 _@2018-07-06_
++ change variable naming convention: amip_name [wss] -> [sfcWind]
++ release for LS3MIP land_hist experiment
+
+### 1.05 _@2018-02-17_
++ time span extended up to 2014
++ fill wind values over ocean pixels with downscaled reanalysis
++ release for CRECENDO project
 
 ### 1.0 _@2017-06-01_
 + version 1 official release
@@ -22,3 +36,4 @@ Description of GSWP3 Forcing Data
 
 ### 0.5b _@2014-06-22_ 
 + first beta release 
++ release for ISI-MIP2
