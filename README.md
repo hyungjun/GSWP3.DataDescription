@@ -8,6 +8,9 @@ Description of GSWP3 Forcing Data
 
 ## Versions
 
+### 1.08 _@2018-11-27_
++ despike air temperature [(detail)](despike.Tair.md)
+
 ### 1.06 _@2018-07-06_
 + change variable naming convention: amip_name [wss] -> [sfcWind]
 + release for LS3MIP land_hist experiment
