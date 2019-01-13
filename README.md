@@ -8,6 +8,9 @@ Description of GSWP3 Forcing Data
 
 ## Versions
 
+### 1.09 _@2019-01-11_
++ reprocess specific humidity [(detail)](reprocess.Qair.md)
+
 ### 1.08 _@2018-11-27_
 + despike air temperature [(detail)](despike.Tair.md)
 
